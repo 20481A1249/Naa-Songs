@@ -1,0 +1,23 @@
+#search_button{
+    background-color: rgb(206, 223, 223);
+    padding-bottom: 3px;
+    width: 50px;
+    height: 20px;
+}
+
+div{
+    padding-top: 40px;
+    background-color: rgb(63, 61, 61);
+    width: 850px;
+    height: 640px;
+}
+button{
+    background-color: rgb(63, 61, 61);
+   height: 100px;
+   width: 80px;
+}
+img{
+    padding-right: 7px;
+    height: 195px;
+    width: 175px; 
+}
